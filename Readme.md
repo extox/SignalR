@@ -1,4 +1,4 @@
-#npm 업데이트 필요
+## npm 업데이트 필요
 
 - Clone 받고 나면 npm install 필요
 - 기본적으로 필요한 node 패키지들은 package.json에 명시 되어 있으나 필요한 경우 아래 명령어 필요
